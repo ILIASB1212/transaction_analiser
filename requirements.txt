@@ -1,0 +1,8 @@
+pydantic_ai
+pydantic
+
+streamlit
+
+pydantic[httpx]
+asyncio
+nest_asyncio

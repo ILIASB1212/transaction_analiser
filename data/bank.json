@@ -1,0 +1,1988 @@
+{
+  "CUST-0001": {
+    "customer_id": "CUST-0001",
+    "name": "Lina Bennis",
+    "home_city": "El Jadida",
+    "home_country": "Morocco",
+    "member_since": "2015",
+    "transactions": [
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 221.45
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 204.66
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 500.63
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 414.84
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 286.26
+      }
+    ]
+  },
+  "CUST-0002": {
+    "customer_id": "CUST-0002",
+    "name": "Mehdi Bennis",
+    "home_city": "Berrechid",
+    "home_country": "Morocco",
+    "member_since": "2026",
+    "transactions": [
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 512.61
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 453.24
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 450.58
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 319.77
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 652.6
+      }
+    ]
+  },
+  "CUST-0003": {
+    "customer_id": "CUST-0003",
+    "name": "Mohammed Chraibi",
+    "home_city": "Berrechid",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 114.45
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 63.56
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 321.73
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "dining",
+        "amount": 81.13
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1735.66
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 2626.15
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 40.48
+      }
+    ]
+  },
+  "CUST-0004": {
+    "customer_id": "CUST-0004",
+    "name": "Hind Ziani",
+    "home_city": "Safi",
+    "home_country": "Morocco",
+    "member_since": "2026",
+    "transactions": [
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 3295.08
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 639.28
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 350.21
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 662.91
+      }
+    ]
+  },
+  "CUST-0005": {
+    "customer_id": "CUST-0005",
+    "name": "Adil Bennani",
+    "home_city": "Tetouan",
+    "home_country": "Morocco",
+    "member_since": "2023",
+    "transactions": [
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2383.34
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain",
+        "category": "dining",
+        "amount": 446.49
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 1077.91
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1001.42
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 517.08
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 3517.47
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 426.27
+      }
+    ]
+  },
+  "CUST-0006": {
+    "customer_id": "CUST-0006",
+    "name": "Hicham Idrissi",
+    "home_city": "Beni Mellal",
+    "home_country": "Morocco",
+    "member_since": "2017",
+    "transactions": [
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 284.3
+      },
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "groceries",
+        "amount": 465.21
+      },
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 167.67
+      }
+    ]
+  },
+  "CUST-0007": {
+    "customer_id": "CUST-0007",
+    "name": "Rachid Benjelloun",
+    "home_city": "Oujda",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 352.2
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 257.75
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 549.11
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "electronics",
+        "amount": 31990.0
+      }
+    ]
+  },
+  "CUST-0008": {
+    "customer_id": "CUST-0008",
+    "name": "Anas Alaoui",
+    "home_city": "Fes",
+    "home_country": "Morocco",
+    "member_since": "2017",
+    "transactions": [
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 621.82
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "shopping",
+        "amount": 1619.81
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 264.3
+      },
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "entertainment",
+        "amount": 171.5
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1015.85
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 323.37
+      },
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 2807.46
+      }
+    ]
+  },
+  "CUST-0009": {
+    "customer_id": "CUST-0009",
+    "name": "Hind Bennis",
+    "home_city": "Marrakech",
+    "home_country": "Morocco",
+    "member_since": "2026",
+    "transactions": [
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 204.29
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 790.06
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 1452.34
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 593.02
+      }
+    ]
+  },
+  "CUST-0010": {
+    "customer_id": "CUST-0010",
+    "name": "Mehdi Tazi",
+    "home_city": "Tangier",
+    "home_country": "Morocco",
+    "member_since": "2020",
+    "transactions": [
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 1029.74
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 3065.45
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 358.13
+      }
+    ]
+  },
+  "CUST-0011": {
+    "customer_id": "CUST-0011",
+    "name": "Hanane Bouzid",
+    "home_city": "Casablanca",
+    "home_country": "Morocco",
+    "member_since": "2022",
+    "transactions": [
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 73.54
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 141.26
+      },
+      {
+        "city": "Rabat",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 553.54
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1505.8
+      }
+    ]
+  },
+  "CUST-0012": {
+    "customer_id": "CUST-0012",
+    "name": "Hind El Khatib",
+    "home_city": "Fes",
+    "home_country": "Morocco",
+    "member_since": "2016",
+    "transactions": [
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 461.19
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 254.47
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 347.31
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 364.01
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium",
+        "category": "shopping",
+        "amount": 1525.8
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 3543.75
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 706.7
+      }
+    ]
+  },
+  "CUST-0013": {
+    "customer_id": "CUST-0013",
+    "name": "Asmaa El Khatib",
+    "home_city": "Fes",
+    "home_country": "Morocco",
+    "member_since": "2023",
+    "transactions": [
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 300.35
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 195.58
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 481.63
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 663.5
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 75.15
+      }
+    ]
+  },
+  "CUST-0014": {
+    "customer_id": "CUST-0014",
+    "name": "Omar Lahlou",
+    "home_city": "Beni Mellal",
+    "home_country": "Morocco",
+    "member_since": "2015",
+    "transactions": [
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 557.11
+      },
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 64.47
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain",
+        "category": "dining",
+        "amount": 282.7
+      }
+    ]
+  },
+  "CUST-0015": {
+    "customer_id": "CUST-0015",
+    "name": "Amina Tazi",
+    "home_city": "Marrakech",
+    "home_country": "Morocco",
+    "member_since": "2020",
+    "transactions": [
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "entertainment",
+        "amount": 966.44
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1724.46
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 4294.48
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 1047.9
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 318.77
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 80.02
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 637.17
+      }
+    ]
+  },
+  "CUST-0016": {
+    "customer_id": "CUST-0016",
+    "name": "Salma Bouzid",
+    "home_city": "Casablanca",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 565.56
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 194.24
+      },
+      {
+        "city": "Paris",
+        "country": "France",
+        "category": "dining",
+        "amount": 278.54
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 274.96
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 92.15
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 109.79
+      }
+    ]
+  },
+  "CUST-0017": {
+    "customer_id": "CUST-0017",
+    "name": "Mohammed Bouzid",
+    "home_city": "Casablanca",
+    "home_country": "Morocco",
+    "member_since": "2019",
+    "transactions": [
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 652.45
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1029.81
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "entertainment",
+        "amount": 135.96
+      }
+    ]
+  },
+  "CUST-0018": {
+    "customer_id": "CUST-0018",
+    "name": "Mohammed Idrissi",
+    "home_city": "Meknes",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 555.99
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2718.62
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1108.39
+      }
+    ]
+  },
+  "CUST-0019": {
+    "customer_id": "CUST-0019",
+    "name": "Omar El Haddad",
+    "home_city": "Rabat",
+    "home_country": "Morocco",
+    "member_since": "2025",
+    "transactions": [
+      {
+        "city": "Rabat",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 260.06
+      },
+      {
+        "city": "Rabat",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 191.82
+      },
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "shopping",
+        "amount": 331.36
+      },
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "electronics",
+        "amount": 31990.0
+      }
+    ]
+  },
+  "CUST-0020": {
+    "customer_id": "CUST-0020",
+    "name": "Rachid Berrada",
+    "home_city": "Kenitra",
+    "home_country": "Morocco",
+    "member_since": "2017",
+    "transactions": [
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 228.52
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 136.36
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 617.11
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 823.1
+      }
+    ]
+  },
+  "CUST-0021": {
+    "customer_id": "CUST-0021",
+    "name": "Rachid El Khatib",
+    "home_city": "Tangier",
+    "home_country": "Morocco",
+    "member_since": "2020",
+    "transactions": [
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1592.87
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2876.02
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 3226.6
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 5515.06
+      },
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "groceries",
+        "amount": 86.36
+      }
+    ]
+  },
+  "CUST-0022": {
+    "customer_id": "CUST-0022",
+    "name": "Imane Belkadi",
+    "home_city": "El Jadida",
+    "home_country": "Morocco",
+    "member_since": "2020",
+    "transactions": [
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 246.32
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2007.57
+      },
+      {
+        "city": "Paris",
+        "country": "France",
+        "category": "entertainment",
+        "amount": 92.91
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 449.67
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 46.19
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 364.36
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 294.16
+      }
+    ]
+  },
+  "CUST-0023": {
+    "customer_id": "CUST-0023",
+    "name": "Amina Ait Omar",
+    "home_city": "El Jadida",
+    "home_country": "Morocco",
+    "member_since": "2015",
+    "transactions": [
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 95.88
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 44.62
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 424.6
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 206.46
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 373.0
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 390.84
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 972.52
+      }
+    ]
+  },
+  "CUST-0024": {
+    "customer_id": "CUST-0024",
+    "name": "Mohammed Ait Lahcen",
+    "home_city": "Marrakech",
+    "home_country": "Morocco",
+    "member_since": "2022",
+    "transactions": [
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 935.18
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1630.37
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 124.5
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 872.46
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 201.27
+      }
+    ]
+  },
+  "CUST-0025": {
+    "customer_id": "CUST-0025",
+    "name": "Khadija Bennis",
+    "home_city": "Agadir",
+    "home_country": "Morocco",
+    "member_since": "2025",
+    "transactions": [
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1923.34
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2990.55
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 244.52
+      },
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 199.45
+      }
+    ]
+  },
+  "CUST-0026": {
+    "customer_id": "CUST-0026",
+    "name": "Zakaria Berrada",
+    "home_city": "Kenitra",
+    "home_country": "Morocco",
+    "member_since": "2015",
+    "transactions": [
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "travel",
+        "amount": 1989.4
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 305.96
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 248.19
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 3006.12
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 3760.8
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 154.76
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 229.27
+      }
+    ]
+  },
+  "CUST-0027": {
+    "customer_id": "CUST-0027",
+    "name": "Samira Ouazzani",
+    "home_city": "Safi",
+    "home_country": "Morocco",
+    "member_since": "2016",
+    "transactions": [
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 3185.94
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 1169.18
+      },
+      {
+        "city": "Safi",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2180.29
+      }
+    ]
+  },
+  "CUST-0028": {
+    "customer_id": "CUST-0028",
+    "name": "Chaimae Chraibi",
+    "home_city": "Berrechid",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1476.28
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 5860.3
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1483.82
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 686.57
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 911.77
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 476.7
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 424.16
+      }
+    ]
+  },
+  "CUST-0029": {
+    "customer_id": "CUST-0029",
+    "name": "Siham El Khatib",
+    "home_city": "Tangier",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Paris",
+        "country": "France",
+        "category": "utilities",
+        "amount": 447.68
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 4613.4
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 533.55
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 3977.72
+      },
+      {
+        "city": "Tangier",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 4659.44
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "electronics",
+        "amount": 1541.83
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 703.52
+      }
+    ]
+  },
+  "CUST-0030": {
+    "customer_id": "CUST-0030",
+    "name": "Salma Lahlou",
+    "home_city": "Agadir",
+    "home_country": "Morocco",
+    "member_since": "2018",
+    "transactions": [
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 455.04
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 528.7
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 20.13
+      }
+    ]
+  },
+  "CUST-0031": {
+    "customer_id": "CUST-0031",
+    "name": "Rachid Chraibi",
+    "home_city": "Oujda",
+    "home_country": "Morocco",
+    "member_since": "2026",
+    "transactions": [
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 289.42
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 435.94
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 917.23
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 418.04
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 281.39
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 861.8
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 889.42
+      }
+    ]
+  },
+  "CUST-0032": {
+    "customer_id": "CUST-0032",
+    "name": "Mariam Ziani",
+    "home_city": "Kenitra",
+    "home_country": "Morocco",
+    "member_since": "2023",
+    "transactions": [
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 7763.35
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 847.63
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "shopping",
+        "amount": 2826.16
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 804.41
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "electronics",
+        "amount": 22450.0
+      }
+    ]
+  },
+  "CUST-0033": {
+    "customer_id": "CUST-0033",
+    "name": "Amina Berrada",
+    "home_city": "Oujda",
+    "home_country": "Morocco",
+    "member_since": "2020",
+    "transactions": [
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 257.34
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 926.2
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 597.01
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2274.21
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 58.74
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1471.18
+      }
+    ]
+  },
+  "CUST-0034": {
+    "customer_id": "CUST-0034",
+    "name": "Adil Tazi",
+    "home_city": "Kenitra",
+    "home_country": "Morocco",
+    "member_since": "2021",
+    "transactions": [
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 543.4
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 286.97
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 764.56
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 31.96
+      }
+    ]
+  },
+  "CUST-0035": {
+    "customer_id": "CUST-0035",
+    "name": "Youssef El Fassi",
+    "home_city": "Meknes",
+    "home_country": "Morocco",
+    "member_since": "2018",
+    "transactions": [
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 309.75
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 43.09
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 456.4
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 382.07
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 246.1
+      },
+      {
+        "city": "Meknes",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1980.41
+      }
+    ]
+  },
+  "CUST-0036": {
+    "customer_id": "CUST-0036",
+    "name": "Amal Belkadi",
+    "home_city": "Oujda",
+    "home_country": "Morocco",
+    "member_since": "2024",
+    "transactions": [
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 262.82
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 354.44
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "electronics",
+        "amount": 925.03
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 259.52
+      }
+    ]
+  },
+  "CUST-0037": {
+    "customer_id": "CUST-0037",
+    "name": "Karim Berrada",
+    "home_city": "Kenitra",
+    "home_country": "Morocco",
+    "member_since": "2020",
+    "transactions": [
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1944.06
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 115.24
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1954.41
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 115.16
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 237.79
+      }
+    ]
+  },
+  "CUST-0038": {
+    "customer_id": "CUST-0038",
+    "name": "Siham Bennis",
+    "home_city": "El Jadida",
+    "home_country": "Morocco",
+    "member_since": "2015",
+    "transactions": [
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 5568.35
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 2398.58
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 951.15
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 263.45
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 79.3
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 194.48
+      }
+    ]
+  },
+  "CUST-0039": {
+    "customer_id": "CUST-0039",
+    "name": "Ismail Benjelloun",
+    "home_city": "Tetouan",
+    "home_country": "Morocco",
+    "member_since": "2019",
+    "transactions": [
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1730.09
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 310.46
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 371.81
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "shopping",
+        "amount": 1275.57
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 101.88
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 380.47
+      }
+    ]
+  },
+  "CUST-0040": {
+    "customer_id": "CUST-0040",
+    "name": "Anas Ziani",
+    "home_city": "Tetouan",
+    "home_country": "Morocco",
+    "member_since": "2019",
+    "transactions": [
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 912.68
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 7040.36
+      },
+      {
+        "city": "Tetouan",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 5930.65
+      }
+    ]
+  },
+  "CUST-0041": {
+    "customer_id": "CUST-0041",
+    "name": "Rachid El Amrani",
+    "home_city": "Beni Mellal",
+    "home_country": "Morocco",
+    "member_since": "2021",
+    "transactions": [
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1286.37
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 267.03
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "shopping",
+        "amount": 721.11
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium",
+        "category": "entertainment",
+        "amount": 55.63
+      },
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 708.25
+      },
+      {
+        "city": "Beni Mellal",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 287.31
+      }
+    ]
+  },
+  "CUST-0042": {
+    "customer_id": "CUST-0042",
+    "name": "Ikram Bennani",
+    "home_city": "Marrakech",
+    "home_country": "Morocco",
+    "member_since": "2021",
+    "transactions": [
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 4143.1
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1049.48
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2690.59
+      },
+      {
+        "city": "Madrid",
+        "country": "Spain",
+        "category": "shopping",
+        "amount": 1836.07
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1660.73
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1362.21
+      }
+    ]
+  },
+  "CUST-0043": {
+    "customer_id": "CUST-0043",
+    "name": "Ismail Tazi",
+    "home_city": "Agadir",
+    "home_country": "Morocco",
+    "member_since": "2023",
+    "transactions": [
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 181.38
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 151.61
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 944.91
+      },
+      {
+        "city": "Dubai",
+        "country": "UAE",
+        "category": "entertainment",
+        "amount": 228.98
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 88.56
+      },
+      {
+        "city": "Agadir",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 139.51
+      }
+    ]
+  },
+  "CUST-0044": {
+    "customer_id": "CUST-0044",
+    "name": "Omar Bennis",
+    "home_city": "El Jadida",
+    "home_country": "Morocco",
+    "member_since": "2022",
+    "transactions": [
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 629.98
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 512.45
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1484.43
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "travel",
+        "amount": 2113.69
+      }
+    ]
+  },
+  "CUST-0045": {
+    "customer_id": "CUST-0045",
+    "name": "Ilyas Lahlou",
+    "home_city": "Kenitra",
+    "home_country": "Morocco",
+    "member_since": "2023",
+    "transactions": [
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1653.76
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "shopping",
+        "amount": 1561.14
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1708.98
+      },
+      {
+        "city": "Paris",
+        "country": "France",
+        "category": "electronics",
+        "amount": 31990.0
+      }
+    ]
+  },
+  "CUST-0046": {
+    "customer_id": "CUST-0046",
+    "name": "Omar Ziani",
+    "home_city": "El Jadida",
+    "home_country": "Morocco",
+    "member_since": "2026",
+    "transactions": [
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "utilities",
+        "amount": 578.07
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 3098.68
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "utilities",
+        "amount": 260.97
+      },
+      {
+        "city": "Fes",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1100.27
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 210.2
+      },
+      {
+        "city": "El Jadida",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 101.98
+      },
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 296.68
+      }
+    ]
+  },
+  "CUST-0047": {
+    "customer_id": "CUST-0047",
+    "name": "Soufiane Ait Lahcen",
+    "home_city": "Marrakech",
+    "home_country": "Morocco",
+    "member_since": "2025",
+    "transactions": [
+      {
+        "city": "Casablanca",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 3391.5
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium",
+        "category": "entertainment",
+        "amount": 380.05
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 237.64
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 1079.21
+      },
+      {
+        "city": "Kenitra",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 113.16
+      }
+    ]
+  },
+  "CUST-0048": {
+    "customer_id": "CUST-0048",
+    "name": "Ismail Bouzid",
+    "home_city": "Berrechid",
+    "home_country": "Morocco",
+    "member_since": "2022",
+    "transactions": [
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 489.99
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 47.79
+      },
+      {
+        "city": "Istanbul",
+        "country": "Turkey",
+        "category": "groceries",
+        "amount": 462.79
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 319.44
+      },
+      {
+        "city": "Berrechid",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 175.8
+      }
+    ]
+  },
+  "CUST-0049": {
+    "customer_id": "CUST-0049",
+    "name": "Amina El Khatib",
+    "home_city": "Oujda",
+    "home_country": "Morocco",
+    "member_since": "2018",
+    "transactions": [
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 643.77
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 508.19
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "groceries",
+        "amount": 897.2
+      },
+      {
+        "city": "Oujda",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 190.0
+      },
+      {
+        "city": "London",
+        "country": "UK",
+        "category": "dining",
+        "amount": 75.74
+      }
+    ]
+  },
+  "CUST-0050": {
+    "customer_id": "CUST-0050",
+    "name": "Nabil Idrissi",
+    "home_city": "Marrakech",
+    "home_country": "Morocco",
+    "member_since": "2025",
+    "transactions": [
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "dining",
+        "amount": 140.16
+      },
+      {
+        "city": "Brussels",
+        "country": "Belgium",
+        "category": "electronics",
+        "amount": 982.03
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "electronics",
+        "amount": 2312.26
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 1037.95
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "travel",
+        "amount": 2081.08
+      },
+      {
+        "city": "Marrakech",
+        "country": "Morocco",
+        "category": "entertainment",
+        "amount": 255.65
+      }
+    ]
+  }
+}
