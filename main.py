@@ -10,6 +10,7 @@ from pydantic_ai.exceptions import (
     UnexpectedModelBehavior,
     ModelRequestRejectedError,
 )
+#
 
 from src.schemas.Schemas import (
     CustomerRecords,
