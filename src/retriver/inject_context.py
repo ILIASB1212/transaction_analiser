@@ -5,9 +5,7 @@ import pydantic_ai
 from pydantic_ai import RunContext   
 from src.schemas.Schemas import CustomerRecords, TransactionAnalysis
 
-from main import transaction_agent
 
-@transaction_agent.tool
 def get_customer_profile(ctx: RunContext[CustomerRecords], 
                         customer_id: str) -> dict:
     """Look up a customer's profile (name, home city/country, member since) by customer_id."""
@@ -18,7 +16,6 @@ def get_customer_profile(ctx: RunContext[CustomerRecords],
 
 
 
-@transaction_agent.tool
 def get_customer_transaction_history(ctx: RunContext[CustomerRecords], 
                             customer_id: str) -> list:
     """Return a customer's past transactions 

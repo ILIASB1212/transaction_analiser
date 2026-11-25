@@ -6,3 +6,4 @@ streamlit
 pydantic[httpx]
 asyncio
 nest_asyncio
+pydantic-ai[groq]

@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "pydantic[httpx]>=2.14.4",
-    "pydantic-ai>=2.74.0",
+    "pydantic-ai[groq]>=2.74.0",
     "streamlit>=1.67.0",
     "asyncio>=4.0.0",
     "nest-asyncio>=1.6.0",
